@@ -5,6 +5,6 @@
 
   # BingWang-2025's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[bingwang-2025.github.io/lab-website-template](https://bingwang-2025.github.io/lab-website-template)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
