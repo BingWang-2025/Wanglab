@@ -1,1 +1,1 @@
-Sitemap: https://bingwang-2025.github.io/lab-website-template/sitemap.xml
+Sitemap: https://bingwang-2025.github.io/Wanglab/sitemap.xml
